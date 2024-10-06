@@ -15,6 +15,6 @@ gameFlash() and userFlash() handle visual feedback.
 levelup() generates the next sequence.
 checkAns() verifies user input and updates the game state.
 The game resets after an incorrect input.
-Controls:
 
-The game starts on a key press and buttons are clicked to play.
+Controls:
+        The game starts on a key press and buttons are clicked to play.
