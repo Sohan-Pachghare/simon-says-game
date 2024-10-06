@@ -20,4 +20,4 @@ The game resets after an incorrect input.
 
 Controls:
 
-        The game starts on a key press and buttons are clicked to play.
+The game starts on a key press and buttons are clicked to play.
